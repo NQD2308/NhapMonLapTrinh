@@ -1,0 +1,43 @@
+{
+  "C_Cpp_Runner.cCompilerPath": "C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/gcc.exe",
+  "C_Cpp_Runner.cppCompilerPath": "C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/g++.exe",
+  "C_Cpp_Runner.debuggerPath": "C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/gdb.exe",
+  "C_Cpp_Runner.cStandard": "",
+  "C_Cpp_Runner.cppStandard": "",
+  "C_Cpp_Runner.msvcBatchPath": "",
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic"
+  ],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false,
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.includePaths": [],
+  "C_Cpp_Runner.includeSearch": [
+    "*",
+    "**/*"
+  ],
+  "C_Cpp_Runner.excludeSearch": [
+    "**/build",
+    "**/build/**",
+    "**/.*",
+    "**/.*/**",
+    "**/.vscode",
+    "**/.vscode/**"
+  ],
+  "files.associations": {
+    "EX01-Hello-10time.C": "cpp",
+    "EX01.C": "cpp",
+    "EX02.C": "cpp",
+    "EX03.C": "cpp",
+    "EX04.C": "cpp",
+    "EX05.C": "cpp",
+    "EX01.school.C": "cpp",
+    "EX02.school.C": "cpp",
+    "EX03.school.C": "cpp",
+    "EX04.school.C": "cpp",
+    "EX05.school.C": "cpp"
+  }
+}
